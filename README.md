@@ -1,4 +1,4 @@
-# shop_app
+# A collaborative e-governance service
 
 A new Flutter project.
 
