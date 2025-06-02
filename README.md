@@ -1,6 +1,6 @@
 # A collaborative e-governance service
 
-A new Flutter project.
+A new Flutter project ease do.
 
 ## Getting Started
 
