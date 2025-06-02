@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Ease Do',
+      title: 'Easy Do',
       theme: AppTheme.lightTheme(context),
       initialRoute: SplashScreen.routeName,
       routes: routes,
